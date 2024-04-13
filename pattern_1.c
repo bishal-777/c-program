@@ -10,7 +10,7 @@ BISHAL*/
 
 int main(void)
     {
-    char str[6]= "BISHAL";
+    char str[7]= "BISHAL";
     int i,j;
     for(i=0;str[i]!=0;i++)
     {
