@@ -21,7 +21,7 @@ int main(void)
             scanf("%f",&std[i].marks[j]);
         }
     }
-    printf("\nName\troll no\tmarks\taverage");
+    printf("\nName\troll no\tmarks");
     for(i=0;i<2;i++)
     {
         for(j=0;j<5;j++)
